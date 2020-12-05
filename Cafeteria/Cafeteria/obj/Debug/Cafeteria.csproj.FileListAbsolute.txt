@@ -1,0 +1,12 @@
+F:\Cafeteria\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe.config
+F:\Cafeteria\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe
+F:\Cafeteria\Cafeteria\Cafeteria\bin\Debug\Cafeteria.pdb
+F:\Cafeteria\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csprojResolveAssemblyReference.cache
+F:\Cafeteria\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Form1.resources
+F:\Cafeteria\Cafeteria\Cafeteria\obj\Debug\Cafeteria.Properties.Resources.resources
+F:\Cafeteria\Cafeteria\Cafeteria\obj\Debug\Cafeteria.csproj.GenerateResource.Cache
+F:\Cafeteria\Cafeteria\Cafeteria\obj\Debug\Cafeteria.exe
+F:\Cafeteria\Cafeteria\Cafeteria\obj\Debug\Cafeteria.pdb
+F:\Bodega\Cafeteria\Cafeteria\bin\Debug\Cafeteria.exe.config
+F:\Bodega\Cafeteria\Cafeteria\obj\Debug\Cafeteria.exe
+F:\Bodega\Cafeteria\Cafeteria\obj\Debug\Cafeteria.pdb
